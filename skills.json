@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/000000/terraform.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/docker.png"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/kubernetes.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/jenkins.png"
+    },
+    {
+        "name": "Apache Kafka",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-apache-kafka-a-framework-based-on-a-publish-subscriber-model-for-stream-processing-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "Selenium",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/selenium.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+    },
+    {
+        "name": "Visual Studio Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/color/48/000000/postman.png"
+    },
+    {
+        "name": "AWS Lambda",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services-lambda.png"
+    },
+    {
+        "name": "Redis",
+        "icon": "https://img.icons8.com/color/48/000000/redis.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/aws.png"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure.png"
+    },
+    {
+        "name": "Google Cloud",
+        "icon": "https://img.icons8.com/color/48/000000/google-cloud.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java.png"
+    }
+]

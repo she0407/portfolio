@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AWS Three-Tier Architecture",
+    "desc": "Provisioned AWS resources using infrastructure as code (IaC) and designed a scalable, secure three-tier architecture.",
+    "image": "aws-three-tier",
+    "category": "cloud",
+    "links": { 
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  },
+  {
+    "name": "Multi-cloud Disaster Recovery",
+    "desc": "Led the deployment of a multi-cloud disaster recovery solution using VMware HCX, Veeam, and IBM Cloud, integrating GitHub for version control and CI practices.",
+    "image": "multi-cloud-dr",
+    "category": "cloud",
+    "links": {
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  },
+  {
+    "name": "Visualizing Fabric of Ohio City",
+    "desc": "Utilized D3.js, Material UI, Flask, and PostgreSQL to create a visualization project.",
+    "image": "visualizing-fabric",
+    "category": "data-visualization",
+    "links": {
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  },
+  {
+    "name": "Jenkins Pipeline CI/CD with Argo CD Deployment",
+    "desc": "Configured Jenkins to automatically trigger deployments based on code changes, increasing deployment frequency by 50%. Managed Kubernetes manifests with Argo CD.",
+    "image": "jenkins-pipeline",
+    "category": "devops",
+    "links": {
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  },
+  {
+    "name": "Deployment of Three-Tier Architecture on AWS",
+    "desc": "Implemented a custom VPC with multiple public and private subnets, enhancing security and isolation. Set up internal and internet-facing load balancers.",
+    "image": "three-tier-aws",
+    "category": "cloud",
+    "links": {
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  },
+  {
+    "name": "Splitwise Prototype",
+    "desc": "Improved database performance by 30% through connection pooling in MySQL, implemented Redux for state management, and increased system scalability by leveraging Kafka.",
+    "image": "splitwise-prototype",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  },
+  {
+    "name": "ShopWise",
+    "desc": "Automated a user-friendly tool for grocery shopping, optimizing shopping efficiency and saving users an average of 20 minutes per shopping session.",
+    "image": "shopwise",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  },
+  {
+    "name": "Vaccination Management System",
+    "desc": "Developed a vaccine management system using Java Spring Framework and ReactJS with email verification and Google authentication.",
+    "image": "vaccination-management",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/shivani-patel/jenkins-pipeline-project",
+      "code": "https://github.com/shivani-patel/jenkins-pipeline-project"
+    }
+  }
+]
